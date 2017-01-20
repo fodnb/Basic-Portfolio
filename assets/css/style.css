@@ -1,0 +1,207 @@
+body {
+	margin-top: 75px;	
+	box-sizing: border-box;
+	color: #777777;
+	font-family: 'arial', 'helvetica neue', helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 1.4;
+	color: #777777;
+	position: relative;
+	top: -75px;
+}	
+	
+#pageWrap {
+	width: 960px;
+	height: 538px;
+	margin: 0 auto;
+	height: 100%;
+	background-image: url("../images/fresh_snow_@2X.png");	
+	border: 1px solid #dddddd;
+	
+}
+	
+header {
+	height: 75px;
+	background: #ffffff;
+}
+
+
+h1 { 
+	font-size: 20px;
+	background: #4aaaa5;
+	color: white;
+	position: relative;
+	width: 17%;
+	height: 55px;
+	text-align: center;
+	padding-top: 20px;
+	left: 40px;
+}
+
+
+
+h1, h2, h3 {
+	font-family: 'georgia', times, "times new roman", serif;
+	font-weight: bold
+}
+
+
+
+h3 {
+	padding-bottom: 20px;
+	text-align: center;
+	color: #4aaaa5;
+}
+
+#Ph2 {
+	font-size: 20px;
+	margin-left: 10px;
+	margin-right: 20px;
+	padding-bottom: 20px;
+	border-bottom: 3px solid #dddddd;
+	color: #4aaaaf;
+}
+
+
+#h2about {
+	font-size: 30px;
+	color: #4aaaa5;
+	height: 20%;
+	border-bottom: 3px solid #dddddd;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+
+#FormH2 {
+	color: #4aaaa5;
+	font-size: 22px;
+	margin-left: 45px;
+	margin-right: 45px;
+	border-bottom: 3px solid #dddddd;	
+	padding: 15px;
+}
+
+
+
+nav {
+	font-size: 20px;
+	width: 25%;
+	height: 100%;
+	position: relative;
+	left: 630px;
+	bottom: 40px;	
+}
+
+
+#mainDiv {
+	height: 80%;
+	border-top: 5px solid #dddddd;
+}
+
+section { 
+	padding-top: 15px;
+ }
+
+.aboutMe {
+	padding: 20px;
+	font-size: 14px;
+	margin-top: 30px;
+	float: left;
+	background: #ffffff;
+	width: 500px;
+	height: 80%;
+	margin-bottom: 20px;
+	border: 1px solid #dddddd;
+	margin-left: 40px;
+	line-height: 1.5;
+}
+
+#myPhoto {
+	float:left;	
+	height: 150px;
+	width: 200px;
+	padding: 10px;
+}
+
+#PortTop {
+	border-top: 5px solid #dddddd;
+
+}
+
+.portfolio {
+	
+	padding: 20px;
+	font-size: 18	px;
+	margin-top: 30px;
+	float: left;
+	background: #ffffff;
+	width: 500px;
+	height: 80%;
+	margin-bottom: 20px;
+	border: 1px solid #dddddd;
+	margin-left: 40px;
+	line-height: 1.5;
+}
+
+#insidePortfolio{
+	padding: 25px;
+}
+
+
+
+
+#MainForm {
+	margin-top: 10px;
+	float: left;
+	background: #ffffff;
+	width: 500px;
+	height: 80%;
+	margin-bottom: 20px;
+	border: 1px solid #dddddd;
+	margin-left: 40px;
+	line-height: 1.5;
+	
+}
+
+#InsideDiv {
+	padding: 40px;
+
+}
+
+.connect {
+	float: right;
+	height: 30%;
+	width: 208px;
+	background: #ffffff;
+	border: 1px solid #dddddd;
+	margin-top: 30px;
+	margin-right: 100px;
+	padding: 20px;
+
+}
+
+
+aside {
+	padding: 20px;
+	border-top: 3px solid #dddddd;
+	text-align: center;
+	width: 80%;	
+}
+
+img { 
+	height: 50px;
+	width: 50px;
+}
+
+footer {
+	height: 10%;
+	border-top: 5px solid #4aaaa5;
+	clear: both;
+	background: #666666;
+	color: white;
+	position:relative;
+	bottom: 0;
+	text-align: center;
+	padding: 10px;
+}
