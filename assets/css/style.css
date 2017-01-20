@@ -8,6 +8,7 @@ body {
 	color: #777777;
 	position: relative;
 	top: -75px;
+	height: 100%;
 }	
 	
 #pageWrap {
@@ -17,7 +18,6 @@ body {
 	height: 100%;
 	background-image: url("../images/fresh_snow_@2X.png");	
 	border: 1px solid #dddddd;
-	
 }
 	
 header {
@@ -89,8 +89,17 @@ nav {
 	width: 25%;
 	height: 100%;
 	position: relative;
-	left: 630px;
+	left: 643px;
 	bottom: 40px;	
+}
+
+a:link {
+	color: #dddddd;
+	font-size: 16px
+}
+
+a:hover {
+	color: #4aaaa5	;
 }
 
 
